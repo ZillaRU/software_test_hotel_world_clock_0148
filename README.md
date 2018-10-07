@@ -1,5 +1,5 @@
 # software_test_hotel_world_clock_0148
-软件测试与验证 week2-3 10152140148
+软件测试与验证 week2-3报告 10152140148
 <br>
 ## “码农酒店”世界时钟系统 需求列表 ##
 • REQ1: ”码农酒店”大堂里有5个时钟，分别显示北京、伦敦、莫斯科、悉尼和纽约的时间<br>
@@ -18,6 +18,8 @@
 ## 基于JUnit4验证happy path的测试代码
 #### 在IDEA中配置了JUnit Generator，自动生成测试代码的基本结构，组织测试代码使用了parallel source tree，避免与被测代码混淆在一起。
 ![](https://raw.githubusercontent.com/ZillaRU/software_test_hotel_world_clock_0148/master/PrtSc_img/file_tree.png)
+#### 设置test resource root
+![](https://raw.githubusercontent.com/ZillaRU/software_test_hotel_world_clock_0148/master/PrtSc_img/set_test_root.png)
 #### 检测到对象可能未初始化，产生空指针
 ![](https://raw.githubusercontent.com/ZillaRU/software_test_hotel_world_clock_0148/master/PrtSc_img/IMG_20181003_101116.jpg)
 #### 补充针对对象未初始化的处理，通过全部测试
