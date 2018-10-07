@@ -1,8 +1,5 @@
-package test.com.zilla;
+package com.zilla;
 
-import com.zilla.CityClock;
-import com.zilla.HotelWorldClockSystem;
-import com.zilla.PhoneClock;
 import org.junit.Before;
 import org.junit.Test;
 
